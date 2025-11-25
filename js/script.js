@@ -28,5 +28,4 @@ main.addEventListener ("click", () => {
 });
 
 const
-    
 });
